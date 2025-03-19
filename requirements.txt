@@ -1,0 +1,5 @@
+psycopg2
+requests
+schedule
+pytz
+python-Levenshtein
