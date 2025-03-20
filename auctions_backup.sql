@@ -1,0 +1,1 @@
+Backup procedure not implemented for PostgreSQL in this example.
